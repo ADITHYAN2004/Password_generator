@@ -1,2 +1,2 @@
 # Password_generator
-This program creates you random_passwords
+This program generate random_passwords
