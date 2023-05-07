@@ -27,8 +27,8 @@ for shuffle in password:
    
 new_password=""
 for last_passowrd in password:
-   
- print(f"Your Password is :{new_password}")   
+  new_password+=last_passowrd 
+print(f"Your Password is :{new_password}")   
 
 
 
